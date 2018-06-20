@@ -8,3 +8,6 @@ Sample Progressive JPG File
 Sample Animated GIF File
 Sample AI File
 Sample SVG File
+
+hvbdjbvhdnvhdvdhnhdvhdhvhnhvdfnhgdfhgndhfdfgndfnvgdhngdfgdfghdfhndjng
+adding sample image files in this document
